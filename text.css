@@ -37,10 +37,7 @@
     position: absolute;
     transition: ease all .3s;
     color: #FF5580;
-    font-family: "Playwrite MX", cursive;
-    font-optical-sizing: auto;
-    font-weight: 500;
-    font-style: normal;
+    
 }
 
 .frame span:nth-of-type(1) {
